@@ -13,3 +13,8 @@ El ciclismo es un ejercicio cardiovascular de bajo impacto que fortalece los mú
 1. Comienza con un calentamiento de 5-10 minutos pedaleando a baja intensidad.
 2. Aumenta el ritmo y pedalea durante al menos 30 minutos. Puedes alternar entre intensidad moderada y alta.
 3. Finaliza con un enfriamiento de 5-10 minutos y estiramientos para evitar lesiones.
+
+## Consejos
+- Mantén una postura adecuada para evitar molestias en la espalda.
+- Hidrátate bien antes, durante y después del ejercicio.
+- Usa casco y equipo de seguridad si practicas ciclismo al aire libre.
