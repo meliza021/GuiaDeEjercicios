@@ -21,3 +21,9 @@ Concédele importancia a la respiración, inhalando profundamente por la nariz y
 5. Mantén una práctica regular, incluso si son sesiones cortas, para obtener beneficios a largo plazo.
 6. ractica con atención plena, dejando de lado las distracciones para conectarte más profundamente con el momento presente.
 
+## Consejos
+- Escucha a tu cuerpo: no forces ninguna postura más allá de tu límite.
+Concédele importancia a la respiración, inhalando profundamente por la nariz y exhalando de manera controlada.
+- Mantén una práctica regular, incluso si son sesiones cortas, para obtener beneficios a largo plazo.
+- Practica con atención plena, dejando de lado las distracciones para conectarte más profundamente con el momento presente.
+
