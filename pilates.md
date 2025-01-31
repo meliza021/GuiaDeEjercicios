@@ -1,0 +1,19 @@
+# Ejercicio Pilates
+
+## Descripción
+El pilates es un método de entrenamiento que combina fuerza, flexibilidad y control corporal, enfocándose en la respiración y el equilibrio.
+
+## Beneficios
+- Mejora la postura y la flexibilidad.
+- Fortalece el núcleo (abdomen, espalda y glúteos).
+- Reduce el estrés y mejora la concentración.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, incluyendo respiraciones profundas y movilidad articular.
+2. Realiza una serie de ejercicios de pilates, como el puente de glúteos, el cien y la plancha, durante al menos 30 minutos.
+3. Finaliza con estiramientos suaves para relajar los músculos.
+
+##  Consejos
+1. Mantén una respiración controlada y fluida.
+2. Enfócate en la técnica y el control de cada movimiento.
+3. Usa una colchoneta para mayor comodidad y evitar lesiones.
