@@ -15,3 +15,7 @@ El CrossFit es un entrenamiento funcional de alta intensidad que combina fuerza,
 4. Repite en series según el nivel (principiante, intermedio o avanzado).
 5. Enfriamiento (5-10 min): estiramientos y respiración controlada para relajar los músculos.
 
+## Consejos
+- Enfócate en la técnica antes de aumentar la intensidad.
+- Mantén una hidratación adecuada y descansa entre series según necesidad.
+- Escucha a tu cuerpo para evitar lesiones y ajustar la carga de trabajo.
