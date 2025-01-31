@@ -15,3 +15,8 @@ Realiza 3-4 series de 8-12 repeticiones de cada ejercicio, descansando entre 30-
 Asegúrate de trabajar diferentes grupos musculares (piernas, espalda, pecho, brazos) en sesiones separadas.
 Finaliza con estiramientos para evitar lesiones.
 
+## Consejos
+Mantén una técnica adecuada para evitar lesiones.
+Ajusta el peso de acuerdo a tu nivel de fuerza, empezando ligero y aumentando progresivamente.
+Respira adecuadamente: exhala durante el esfuerzo y no retengas la respiración.
+Escucha a tu cuerpo y no sobrecargues tus músculos.
