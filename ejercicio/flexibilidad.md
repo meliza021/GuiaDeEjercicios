@@ -20,5 +20,10 @@ Realiza los estiramientos de manera suave, sin rebotes ni movimientos bruscos.
 No estires hasta sentir dolor, solo hasta sentir un estiramiento cómodo.
 Practica la flexibilidad de manera regular para obtener los mejores resultados.
 
+## Consejos
+-  Realiza los estiramientos de manera suave, sin rebotes ni movimientos bruscos.
+- Mantén la respiración constante mientras estiras.
+No estires hasta sentir dolor, solo hasta sentir un estiramiento cómodo.
+- Practica la flexibilidad de manera regular para obtener los mejores resultados.
 
 
